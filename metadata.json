@@ -1,0 +1,5 @@
+{
+  "name": "Microprint Image Editor",
+  "description": "An image editor that embeds thousands of tiny words onto an image, designed to be nearly invisible to the human eye but detectable by AI. Upload an image, add your text, adjust the settings, and download the result.",
+  "requestFramePermissions": []
+}
